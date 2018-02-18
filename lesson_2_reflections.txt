@@ -10,7 +10,7 @@ Staging area shows the files before it committed and moved to the working direct
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-	Fill in with your answer
+	Git add[file..] can use to select specific file each time and then add them in one single commit represent a logical change.
 
 	
 
