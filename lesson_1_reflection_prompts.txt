@@ -24,7 +24,7 @@ files in one commit, while others, like Google Docs, treat each file separately?
 	
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    Run git log command in git bash command line, a list of repository history will show up with all the previous versions of the file. From this list select two commit 'id', and in the command line screen type git diff followed by the first file commit, space bar and then second file commit.
 
 How might using version control make you more confident to make changes that
 could break something?
