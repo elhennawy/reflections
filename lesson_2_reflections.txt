@@ -1,9 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Initialize the repository updates git with any new added files
+Initialize the repository updates git with any new added files.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+Staging area shows the files before it committed and moved to the working directory. Working direcotry shows the current commit, and repository is shows all the history.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
