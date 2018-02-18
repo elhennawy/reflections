@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initialize the repository updates git with any new added files
