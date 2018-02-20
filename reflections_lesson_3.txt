@@ -9,3 +9,8 @@ To decide exactly what I need to merge from remote repository
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are cloning a repository of other person in your github account, clones is downloading a copy from a remote repository into your local machine, and branches is a group of commits that have separated to use it for other purposes like develop a feature.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+When I upate my local repository with the latest updates in remote repository, I can run git log and git diff and know what differences between my local and remote version of the repository. It can reduce file conflicts and make it simple to merge without issues.
+
