@@ -14,3 +14,5 @@ What is the benefit of having a copy of the last known state of the remote store
 
 When I upate my local repository with the latest updates in remote repository, I can run git log and git diff and know what differences between my local and remote version of the repository. It can reduce file conflicts and make it simple to merge without issues.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be messy and hard and probaly we will loss track or our work.
