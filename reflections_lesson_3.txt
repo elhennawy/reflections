@@ -16,3 +16,7 @@ When I upate my local repository with the latest updates in remote repository, I
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would be messy and hard and probaly we will loss track or our work.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Using a seperate branch is good for add features or modify the files without cause any problem to the master branch.
